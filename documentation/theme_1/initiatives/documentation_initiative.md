@@ -1,5 +1,5 @@
 ## Epics
-
+#### PGJ94/Comment 2 - Recommend adding Epics title
 1. Define Functional Requirements: This should describe the functionality of the web application, including the user interface, data handling, and any third-party integrations.
 
 2. Define Technical Requirements: This should detail the technical aspects of the web application, such as the programming language, framework, and infrastructure requirements.
