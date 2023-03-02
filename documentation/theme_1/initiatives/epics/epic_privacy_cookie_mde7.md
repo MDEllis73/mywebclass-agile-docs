@@ -1,7 +1,7 @@
 Epic - Privacy Policy & Cookie Compliance
 
 Description: Create a privacy policy that meets legal requirements and accurately reflects the website's data collection and sharing practices.
-
+#### PGJ94/Comment 3 - Adding rest of the list for the epic
 # List stories related to this epic
 1. [Story 1](stories/story_template_mde7.md)
 
