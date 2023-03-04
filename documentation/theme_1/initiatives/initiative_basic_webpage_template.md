@@ -1,5 +1,5 @@
 # Initiative: Create an initial web page template that includes compliance with legal requirements
-#### PGJ94/Comment 4 - Missing initiative list
+
 ## Epics
 * [Privacy Policy & Cookie Compliance](epics/epic_privacy_cookie_mde7.md)
 * [Terms and Conditions](epics/epic_terms_conditions_mde7.md)
