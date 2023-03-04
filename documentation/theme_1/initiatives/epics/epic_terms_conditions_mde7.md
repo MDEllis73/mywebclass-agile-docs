@@ -1,7 +1,7 @@
 "Terms and Conditions"
 
 Description: Develop terms and conditions that comply with applicable laws and regulations and accurately reflect the website's services and user responsibilities.
-#### PGJ94/Comment 3 - Adding rest of the list for this epic
+
 # List stories related to this epic
 1. [Story 1](stories/story_template_mde7.md)
 
