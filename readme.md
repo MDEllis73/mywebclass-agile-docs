@@ -17,7 +17,7 @@ taking what you mean to say and turning into this type of documentation.
 
 ## Scope of the exercise
 
-In the spirit of Lean and to start our project off using the "pull" approach to develompent we will only focus on the
+In the spirit of Lean and to start our project off using the "pull" approach to development we will only focus on the
 following goal. MyWebClass is a website and we will need a development team that needs to work together in parallel
 meaning that we eventually need to produce various content to support the objectives of the site. In order for this to
 happen we need to create a basic web template that can be found using a search engine, addresses any legal requirements
@@ -93,8 +93,8 @@ draft of the plan together, design it yourself and you should review your partne
 
 ### Grading Rubric
 
-1. 25 Points for having at least 5 comments on your code by your partner that result in 5 issues being created and  resolved.
-2. 50 Points effective and sensible organization of your project that applies Agile and Lean ideas.   Use ChatGPT to help you with the writing, so that its written with a professional business tone and vocabulary. 
+1. 25 Points for having at least 5 comments on your code by your partner that result in 5 issues being created and resolved.
+2. 50 Points effective and sensible organization of your project that applies Agile and Lean ideas. Use ChatGPT to help you with the writing, so that its written with a professional business tone and vocabulary. 
 3. 25 Points for demonstrating that you understand that each activity needs to be measured and that each task needs some combination of manual and automated testing.
 
 ### Submission
@@ -120,7 +120,7 @@ business processes to provide realistic scenarios for students to learn technolo
 ## My Rough Draft
 
 Here is an example of how I initially break down a project; however, I intend to change this in the near future, so that
-i organize my themes by business activity instead of release schedule. Examples of these
+I organize my themes by business activity instead of release schedule. Examples of these
 themes include the DevOps and Search Engine Themes.
 
 In practice, it is commonplace to adapt project documentation to meet evolving project needs early on in the process.

@@ -15,5 +15,3 @@ us up for long-term success.
 How will this be tested?
 
 * User Acceptance Test (UAT): Confirm that the web application meets the needs and expectations of the end-users.
-
-#### PGJ94/Comment 1 - Recommend adding how it will be measured and how effective it will be.
