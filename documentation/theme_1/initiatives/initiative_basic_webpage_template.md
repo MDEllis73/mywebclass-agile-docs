@@ -8,3 +8,5 @@
 ## Test plan
 How will this be tested?
 Run website through w3c, Lighthouse, GDPR Scanner, Playwright test
+
+#### PGJ94/Comment 5 - I also did legal requirements on my project, I recommend looking up Privacy policy tests and Compliance testing for the testing plan
